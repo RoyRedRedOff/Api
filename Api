@@ -12,5 +12,12 @@
     "id_app": "metaroyteam",
     "image_link": "https://cdn.discordapp.com/attachments/1210786383354920970/1241639875023999026/IMG_20240519_133322.jpg?ex=664aeebe&is=66499d3e&hm=f4e044c718daa551b1df7432cf1d650fd8a35f21fb79181abdc0185e93215d53&",
     "desc_app": "This app is similar to my app but it will have more cool things"
-  }
+  },
+  {
+    "name_app": "MCPE 1.21.0.26",
+    "link_get": "https://www.mediafire.com/file/g6hy9hq6cps2ycc/minecraft-1-21-0-26.apk/file",
+    "id_app": "mcpe",
+    "image_link": "https://media.discordapp.net/attachments/1181211890781798454/1236642391587557386/images.jpg?ex=664a8cb9&is=66493b39&hm=ab9145bd40f6c40041a32f67c58cdb328788e45904a18cb9fa5f15be47138d6f&",
+    "desc_app": "Latest version of Minecraft but it has a lot of errors"
+ }
 ]
