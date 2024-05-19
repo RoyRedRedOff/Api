@@ -19,5 +19,11 @@
     "id_app": "mcpe",
     "image_link": "https://media.discordapp.net/attachments/1181211890781798454/1236642391587557386/images.jpg?ex=664a8cb9&is=66493b39&hm=ab9145bd40f6c40041a32f67c58cdb328788e45904a18cb9fa5f15be47138d6f&",
     "desc_app": "Latest version of Minecraft but it has a lot of errors"
- }
+ },
+ {
+    "name_app": "MCPE 1.20.81",
+    "link_get": "https://www.mediafire.com/file/mnvokoichylcxxu/minecraft-1-20-81.apk/file",
+    "id_app": "mcpe",
+    "image_link": "https://media.discordapp.net/attachments/1181211890781798454/1236642391323050104/images-1.jpg?ex=664a8cb9&is=66493b39&hm=7b6d44ef0f44e0d3eeb2b20a0a3688cfda9cc4e3a53f2707ec79a56fdc1c08b9&",
+    "desc_app": "Introducing an official Minecraft version that can reduce fps drops and fewer errors"
 ]
