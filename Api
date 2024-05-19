@@ -4,34 +4,39 @@
     "link_get": "https://www.mediafire.com/file/gfm20bd1ys5l9j6/9.7.apk/file",
     "id_app": "weatherplus",
     "image_link": "https://cdn.discordapp.com/attachments/1210786383354920970/1241638449904353300/Khong_Co_Tieu_e18_20240513170558.jpg?ex=664aed6a&is=66499bea&hm=e509a3b1400fbfea61b982f831bf64da9fa8fb2bbb4bcc655ba77d9c77637e74&",
-    "desc_app": "This is a weather monitoring app that will update every 15 minutes"
+    "desc_app": "This is a weather monitoring app that will update every 15 minutes",
+    "date_app": "25/4/2024"
   },
   {
     "name_app": "MetaRoyApp",
     "link_get": "https://www.mediafire.com/file/1qdaz2oe00dby2v/METAROYAPP.apk/file",
     "id_app": "metaroyteam",
     "image_link": "https://cdn.discordapp.com/attachments/1210786383354920970/1241639875023999026/IMG_20240519_133322.jpg?ex=664aeebe&is=66499d3e&hm=f4e044c718daa551b1df7432cf1d650fd8a35f21fb79181abdc0185e93215d53&",
-    "desc_app": "This app is similar to my app but it will have more cool things"
+    "desc_app": "This app is similar to my app but it will have more cool things",
+    "date_app": "5/5/2024"
   },
   {
     "name_app": "MCPE 1.21.0.26",
     "link_get": "https://www.mediafire.com/file/g6hy9hq6cps2ycc/minecraft-1-21-0-26.apk/file",
     "id_app": "mcpe",
     "image_link": "https://media.discordapp.net/attachments/1181211890781798454/1236642391587557386/images.jpg?ex=664a8cb9&is=66493b39&hm=ab9145bd40f6c40041a32f67c58cdb328788e45904a18cb9fa5f15be47138d6f&",
-    "desc_app": "Latest version of Minecraft but it has a lot of errors"
+    "desc_app": "Latest version of Minecraft but it has a lot of errors",
+    "date_app": "16/5/2024"
  },
  {
     "name_app": "MCPE 1.20.81",
     "link_get": "https://www.mediafire.com/file/mnvokoichylcxxu/minecraft-1-20-81.apk/file",
     "id_app": "mcpe",
     "image_link": "https://media.discordapp.net/attachments/1181211890781798454/1236642391323050104/images-1.jpg?ex=664a8cb9&is=66493b39&hm=7b6d44ef0f44e0d3eeb2b20a0a3688cfda9cc4e3a53f2707ec79a56fdc1c08b9&",
-    "desc_app": "Introducing an official Minecraft version that can reduce fps drops and fewer errors"
+    "desc_app": "Introducing an official Minecraft version that can reduce fps drops and fewer errors",
+    "date_app": "30/4/2024"
 },
 {
     "name_app": "MCPE PATCHED",
     "link_get": "https://www.mediafire.com/file/3etfcwgtrjz7zh9/Minecraft+1.20.73.01+Patched.apk/file",
     "id_app": "mcpe",
     "image_link": "https://media.discordapp.net/attachments/1181211890781798454/1236637696621940816/uxtDAv0.png?ex=664a885a&is=664936da&hm=7165e302ac894b455779538e2fc4ae2bded67f4bb10fe65b77bcb3bca0df3e7a&",
-    "desc_app": "Introducing an official Minecraft version that can reduce fps drops and fewer errors"
+    "desc_app": "Introducing an official Minecraft version that can reduce fps drops and fewer errors",
+    "date_app": "6/4/2024"
  }
 ]
