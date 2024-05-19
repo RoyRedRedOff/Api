@@ -26,4 +26,12 @@
     "id_app": "mcpe",
     "image_link": "https://media.discordapp.net/attachments/1181211890781798454/1236642391323050104/images-1.jpg?ex=664a8cb9&is=66493b39&hm=7b6d44ef0f44e0d3eeb2b20a0a3688cfda9cc4e3a53f2707ec79a56fdc1c08b9&",
     "desc_app": "Introducing an official Minecraft version that can reduce fps drops and fewer errors"
+},
+{
+    "name_app": "MCPE PATCHED",
+    "link_get": "https://www.mediafire.com/file/3etfcwgtrjz7zh9/Minecraft+1.20.73.01+Patched.apk/file",
+    "id_app": "mcpe",
+    "image_link": "https://media.discordapp.net/attachments/1181211890781798454/1236637696621940816/uxtDAv0.png?ex=664a885a&is=664936da&hm=7165e302ac894b455779538e2fc4ae2bded67f4bb10fe65b77bcb3bca0df3e7a&",
+    "desc_app": "Introducing an official Minecraft version that can reduce fps drops and fewer errors"
+ }
 ]
