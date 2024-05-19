@@ -1,6 +1,14 @@
-{"imageaddon":"https://media.discordapp.net/attachments/1181211890781798454/1236613392064843776/Picsart_24-03-21_20-34-10-838.jpg?ex=663d42b7&is=663bf137&hm=b38f08c93a4795a525ec2afa197e82d9734ea892b5bcf034aae07c01e8c3a9c9&",
-"nameaddon":"The Huggy Wuggy Morphs",
-"descaddon":"Introducing an item that helps players transform into a monster called Huggy Wuggy",
-"linkaddon":"https://www.mediafire.com/download/yqlvtayuoqtmgi6",
-"idaddon":"hgmorphid",
-"dateaddon":"04-12-2023"}
+[
+  {
+    "name_app": "Weather Plus",
+    "link_get": "https://www.mediafire.com/file/gfm20bd1ys5l9j6/9.7.apk/file",
+    "id_app": "weatherplus"
+    "image_link": "https://cdn.discordapp.com/attachments/1210786383354920970/1241638449904353300/Khong_Co_Tieu_e18_20240513170558.jpg?ex=664aed6a&is=66499bea&hm=e509a3b1400fbfea61b982f831bf64da9fa8fb2bbb4bcc655ba77d9c77637e74&"
+  },
+[
+  {
+    "name_app": "MetaRoyApp",
+    "link_get": "https://www.mediafire.com/file/1qdaz2oe00dby2v/METAROYAPP.apk/file",
+    "id_app": "metaroyteam"
+    "image_link": "https://cdn.discordapp.com/attachments/1210786383354920970/1241639875023999026/IMG_20240519_133322.jpg?ex=664aeebe&is=66499d3e&hm=f4e044c718daa551b1df7432cf1d650fd8a35f21fb79181abdc0185e93215d53&"
+  }
