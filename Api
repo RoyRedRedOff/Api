@@ -5,7 +5,8 @@
     "id_app": "weatherplus",
     "image_link": "https://cdn.discordapp.com/attachments/1210786383354920970/1241638449904353300/Khong_Co_Tieu_e18_20240513170558.jpg?ex=664aed6a&is=66499bea&hm=e509a3b1400fbfea61b982f831bf64da9fa8fb2bbb4bcc655ba77d9c77637e74&",
     "desc_app": "This is a weather monitoring app that will update every 15 minutes",
-    "date_app": "25/4/2024"
+    "date_app": "25/4/2024",
+    "created_app": "RoyRedRed"
   },
   {
     "name_app": "MetaRoyApp",
@@ -13,7 +14,8 @@
     "id_app": "metaroyteam",
     "image_link": "https://cdn.discordapp.com/attachments/1210786383354920970/1241639875023999026/IMG_20240519_133322.jpg?ex=664aeebe&is=66499d3e&hm=f4e044c718daa551b1df7432cf1d650fd8a35f21fb79181abdc0185e93215d53&",
     "desc_app": "This app is similar to my app but it will have more cool things",
-    "date_app": "5/5/2024"
+    "date_app": "5/5/2024",
+    "created_app": "Normal Sans"
   },
   {
     "name_app": "MCPE 1.21.0.26",
